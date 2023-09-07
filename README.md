@@ -20,8 +20,10 @@
 
 ## 自助安裝
 
-1. 下載`opencc`檔案夾內容，將完整檔案夾放入Rime用戶檔案夾內
+1. 下載`opencc`檔案夾內容，將完整檔案夾放入Rime用戶檔案夾內，如圖所示：
+![image](https://github.com/jsdryan/rime-emoji/assets/34669056/ac5167a1-8a2a-4082-9470-395e1c32f46a)
 
-2. 將`emoji_suggestion.yaml`內的內容加入至想添加Emoji的方案custom檔中
+2. 將`emoji_suggestion.yaml`內的內容加入至想添加Emoji的方案custom檔中，如圖所示（以下範例為 `luna_pinyin_tw.custom.yaml` 檔案：
+![image](https://github.com/jsdryan/rime-emoji/assets/34669056/487059e7-de2b-45f1-b85c-19c52a880009)
 
 授權條款：見 [LICENSE](LICENSE)
