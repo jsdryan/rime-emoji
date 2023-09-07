@@ -20,7 +20,7 @@
 
 ## 自助安裝
 
-1. 下載`opencc`檔案夾內容，將完整檔案夾放入Rime用戶檔案夾內
+1. 下載`opencc`檔案夾內容，將「完整檔案夾」放入Rime用戶檔案夾內，變成`RIme\opencc`這樣的路徑。
 
 2. 將`emoji_suggestion.yaml`內的內容加入至想添加Emoji的方案custom檔中
 
